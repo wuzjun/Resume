@@ -35,21 +35,21 @@
 
 # 项目经历
 
-## 三轮舵轮机器人
+### 三轮舵轮机器人
 
 利用STM32F4系列核心板作为主控，使用传感器校准舵角位置，舵角与舵轮控制使用 can 控制电机。
 [并使用 webots 提前仿真运动模型。](https://github.com/wuzjun/Webots_Robot)
 
-## RoboMaster 能量机关
+### RoboMaster 能量机关
 
 机甲大师赛道具研发，利用STM32F4系列核心板作为主控，使用涡轮蜗杆减速箱，使用 can 控制电机。
 [编写代码控制电机进行匀速和变速等多种模式旋转。](https://github.com/wuzjun/2021RoboMaster_Windmill)
 
-## 哨兵机器人
+### 哨兵机器人
 
 机甲大师赛哨兵机器人研发，多传感器融合感知与决策判断，FreeRTOS实现任务管理，串口获取NUC图像处理信息实现自动跟随击打功能，cubeMX 保证底层代码稳定性等。
 
-## 步兵机器人
+### 步兵机器人
 
 机甲大师赛步兵机器人研发，功率与热量限制算法优化，FreeRTOS实现任务管理，串口获取NUC图像处理信息实现自动跟随击打功能，利用动态PID 应对底盘运动变形，cubeMX 保证底层代码稳定性等。
 
@@ -57,10 +57,10 @@
 
 以下均为我熟练使用的技能
 
-编程语言：C/C++
-嵌入式：STM32/FreeRTOS
-代码管理：Github
-软件运用：VS/VS code/Keil 5/STM32cubemx/Matlab/Webots
+- 编程语言：C/C++
+- 嵌入式：STM32/FreeRTOS
+- 代码管理：Github
+- 软件运用：VS/VS code/Keil 5/STM32cubemx/Matlab/Webots
 
 ---
 
