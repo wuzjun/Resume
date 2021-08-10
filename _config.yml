@@ -14,7 +14,7 @@ showHeader: true
 headerInfo:
   # 头像，相对本配置文件路径，或者 URL
   # photo: 'https://avatars1.githubusercontent.com/u/22113206?s=460&v=4'
-  # photo: './markdown/avatar.jpeg'
+  photo: './markdown/photo.jpg'
   name: '吴焯钧'
   phone: '13690139909'
   email: 'w1159904119@gmail.com'
