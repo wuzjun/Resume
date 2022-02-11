@@ -1,10 +1,11 @@
-## 联系方式
+### 个人信息
 
-- 手机：13690139909
-- Email：w1159904119@gmail.com
-- QQ/微信号：1159904119 / 13690139909
+<div style="float: left;display: flex;flex-wrap: wrap;width: 75%;justify-content: space-between;">
+    <div style="width: 45%;font-weight: 500;font-size: 14px;margin: 5px;">手机：13690139909</div>
+    <div style="width: 45%;font-weight: 500;font-size: 14px;margin: 5px;">Email：w1159904119@gmail.com</div>
+    <div style="width: 45%;font-weight: 500;font-size: 14px;margin: 5px;">QQ/微信号：1159904119 / 13690139909</div>
+    <div style="float: right;margin-right: 10px;">
 
-## 个人信息
 
 - 吴焯钧/男/1999
 - 本科/华南理工大学广州学院机器人工程学院
